@@ -15,6 +15,12 @@ When I'm working with a form (for me this typically means a screen interface to 
 
 [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl)
 
+![AutumnForm](./AutumnForm.png)
+
+
+![Symbol Sampler](./Symbol Sampler.png)
+
+
 ### Pictures Instead of Words
 I'm a big fan of pictures over words on the phone screen, so instead of the traditional text labels, I have been using emoji as images for the segment content. `A picture's worth a thousand words`, and all that... 
 

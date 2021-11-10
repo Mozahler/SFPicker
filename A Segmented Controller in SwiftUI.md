@@ -2,7 +2,7 @@
 
 This sounds like a fun project to me, let me know what you think
 
-[link to the issues page of the site]
+[link to the issues page of the site](https://github.com/Mozahler/SFPicker/issues)
 
 ## SFSymbols
 

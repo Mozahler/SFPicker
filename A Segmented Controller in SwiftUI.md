@@ -18,7 +18,7 @@ When I'm working with a form (for me this typically means a screen interface to 
 ![AutumnForm](./AutumnForm.png)
 
 
-![Symbol Sampler](./Symbol Sampler.png)
+![Symbol Sampler](./SymbolSampler.png)
 
 
 ### Pictures Instead of Words

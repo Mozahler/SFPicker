@@ -79,7 +79,7 @@ In this unit I have:
 * Provided a working version of the code we will be tackling in the next unit
 * Explained how to integrate the package with your Xcode project.
 
-
+# Next:
 I am going to tackle this job in phases:
 
 * A selection bar you send the array of images you want included - allows a single selection only

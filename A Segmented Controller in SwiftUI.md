@@ -15,14 +15,14 @@ When I'm working with a form (for me this typically means a screen interface to 
 
 [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl)
 
+### Pictures Instead of Words
+I'm a big fan of pictures over words on the phone screen, so instead of the traditional text labels, I have been using emoji as images for the segment content. `A picture's worth a thousand words`, and all that... 
+
 ![AutumnForm](./AutumnForm.png)
 
 
 ![Symbol Sampler](./SymbolSampler.png)
 
-
-### Pictures Instead of Words
-I'm a big fan of pictures over words on the phone screen, so instead of the traditional text labels, I have been using emoji as images for the segment content. `A picture's worth a thousand words`, and all that... 
 
 But I've never been particularly happy about it. Emojis are fun, but in general they are informal, and a bit casual for my ususal purposes. With the advent of the third release of SFSymbols, I'm ready to take the plunge and design my own picker that piggybacks on Apple's hard work. A picker which uses SFSymbols instead of text labels or any other types of images.
 

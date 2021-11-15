@@ -86,7 +86,7 @@ I am going to tackle this job in phases:
 * Add closures instead of hard-coding the class in the reducer based on an index tapped
 * Allows multiple selection - good to use to filter data, or perform a search on a union of selected segment indexes
 
-![testing remote link](https://github.com/Mozahler/SFPicker/blob/main/Images/PackageDependencies.png?raw=true)
+![testing remote link](https://github.com/Mozahler/SFPicker/blob/main/Images/All.png?raw=true)
 
 .pct 85
 
